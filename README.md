@@ -4,6 +4,9 @@ The LD4 Rare Materials Affinity Group seeks to make use of the collective expert
 
 This group builds upon the existing strong relationships among rare materials communities, and will liaise with associated communities as needed. 
 
+## Focus 
+[Areas of focus]
+
 ## Background 
 [History of the group]
 
