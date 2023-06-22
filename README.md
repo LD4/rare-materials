@@ -46,6 +46,10 @@ The LD4 Rare Materials Affinity Group seeks to coordinate/collaborate with realt
 
 ## Working Groups
 ### RMAG Profiles Working Group
+**Sinopia Rare Materials Item Profile**
+- 2023 LD4 Conference Presentation
+  - Questions for the community
+
 
 
 
