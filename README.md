@@ -1,14 +1,16 @@
 # LD4 Rare Materials Affinity Group
 
-The LD4 Rare Materials Affinity Group seeks to make use of the collective expertise across GLAM (Galleries, Libraries, Archives, and Museums) institutions to discuss needs and challenges particular to rare and archival materials in a linked data environment, and to coordinate the development of resources to support our work. 
+The LD4 Rare Materials Affinity Group (RMAG) seeks to make use of the collective expertise across GLAM (Galleries, Libraries, Archives, and Museums) institutions to discuss needs and challenges particular to rare and archival materials in a linked data environment, and to coordinate the development of resources to support our work. 
 
 This group builds upon the existing strong relationships among rare materials communities, and will liaise with associated communities as needed. 
 
 ## Focus 
-[Areas of focus]
+- Development of linked data templates or profiles for description of rare materials
+- Community education, by hosting speakers on rare materials-related linked data projects and implementations
+- Collaboration and idea sharing across LD4 Affinity Groups
 
 ## Background 
-[History of the group]
+The LD4 Rare Materials Affinity Group began under the umbrella of the Linked Data for Production: Phase 2 (LD4P2) grant project, which ran from 2018-2020. The LD4P2 Rare Materials Affinity Group was made up of representatives from nine institutions that were working on rare materials-related projects as their contributions to the grant. After the conclusion of LD4P2, RMAG transitioned to an affinity group under the umbrella of LD4, and opened membership to all those interested in developing or learning about linked data tools and implementations for rare materials.
 
 ## Approach
 **Conveners**
