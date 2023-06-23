@@ -35,7 +35,7 @@ Past conveners:
 **Communication channels**
 - Google drive folder: https://drive.google.com/drive/u/0/folders/1oItA0LxkKKntrQPbvSRmJQKHKxY_-i2m 
 - Google group: ld4-rare-materials@googlegroups.com
-- Slack channel: ld4.slack.com/#rareaffinitygrp 
+- Slack channel: ld4.slack.com/#rareaffinitygrp (temp invite to LD4 Slack: https://join.slack.com/t/ld4/shared_invite/zt-1xp2ohyqf-v7Qij0GW7Uz2Oe1VUraaHw)
 
 **Coordination with other groups**
 
