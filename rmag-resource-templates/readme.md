@@ -43,7 +43,7 @@ While the RMAG templates are still under development, we welcome feedback from t
 
 We also welcome community input regarding a series of standing questions around modelling decissions:
 
-***[Standing modelling questions for feedback](https://docs.google.com/spreadsheets/d/1o0wk36IR8LWQYhFfQwZkw_hvxGLmLpc6hSvXIlDSKtg/edit?usp=sharing)**
+***[Modelling Questions for Feedback](https://docs.google.com/spreadsheets/d/1o0wk36IR8LWQYhFfQwZkw_hvxGLmLpc6hSvXIlDSKtg/edit?usp=sharing)**
 
 Thanks for your feedback!
 
