@@ -53,7 +53,7 @@ In June 2022, the LD4 Rare Materials Affinity Group launched a survey to gauge t
 
 The RMAG resource templates are based on the PCC BIBFRAME profiles and include all the classes of the ARM ontology extension v1.0 relevant to the description of rare books. These templates are a work in process and are subject to change, specially as they get tested by the community and feedback is provided. 
 
-Progess on template development and standing modelling questions can be followed up on the **[RMAG Profiles Development Tracking](https://docs.google.com/spreadsheets/d/1NwL6oDXh8qtCRPy5B42_PhRJcrrYrEKXF8C2Lm49K74/edit?usp=sharing)** Spreadsheet.
+Progess on template development and standing modelling questions can be followed up on the [RMAG Profiles Development Tracking](https://docs.google.com/spreadsheets/d/1NwL6oDXh8qtCRPy5B42_PhRJcrrYrEKXF8C2Lm49K74/edit?usp=sharing) Spreadsheet.
 
 The RMAG Profiles Working Group is working in coordination with the RBMS Bibliographic Standards Committee Linked Data Implementation Steering Group, however the templates themselves have not been vetted by the RBMS Bibliographic Standards Committee, the Program for Cooperative Cataloging, or any other standards body.
 
