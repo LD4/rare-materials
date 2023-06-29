@@ -11,7 +11,7 @@ Currently, the RMAG Profiles Working Group is focusing on the development of an 
 
 ## Testing the resource templates
 
-The templates are openly available in the linked data editor Sinopia ([Stage environment](https://stage.sinopia.io/)). The Sinopia [Wiki](https://github.com/LD4P/sinopia/wiki) includes good information about creating a user account and working in Sinopia. Click on any of the links below to access the appropriate template and feel free to to test it out!
+The templates are openly available in the linked data editor Sinopia ([Stage environment](https://stage.sinopia.io/)). The Sinopia [Wiki](https://github.com/LD4P/sinopia/wiki) includes good information about creating a user account and using the environment. Click on any of the links below to access the appropriate template and feel free to to test it out!
 
 ### Main resource templates
 
