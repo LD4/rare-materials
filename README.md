@@ -48,7 +48,8 @@ The LD4 Rare Materials Affinity Group seeks to coordinate/collaborate with realt
 ### RMAG Profiles Working Group
 
 The RMAG Profiles Working Group is a sub group of the LD4 Rare Materials Affinity Group who is working on template development for the description of rare materials in Sinopia. Everyone is welcome to join the discussions. 
-More information on the RMAG profiles (including a feedback from) [here](https://github.com/LD4/rare-materials/tree/main/rmag-resource-templates).
+
+More information on the RMAG profiles (including a feedback from) here: [RMAG Profiles](https://github.com/LD4/rare-materials/tree/main/rmag-resource-templates).
 
 
 **Sinopia Rare Materials Item Profile**
