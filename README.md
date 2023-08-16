@@ -16,6 +16,7 @@ The LD4 Rare Materials Affinity Group began under the umbrella of the Linked Dat
 **Conveners**
 - Paloma Graciani Picardo, Harry Ransom Center | paloma.graciani@austin.utexas.edu
 - Christine DeZelar-Tiedman, University of Minnesota Libraries | dezel002@umn.edu
+- Gioia Stevens, New York University Libraries | gioia.stevens@nyu.edu
 
 Past conveners:
 - Audrey Pearson, Beinecke Library (2019-2020)
